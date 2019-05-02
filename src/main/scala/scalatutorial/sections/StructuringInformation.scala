@@ -154,8 +154,8 @@ object StructuringInformation extends ScalaTutorialSection {
    * }
    *}}}
    *
-   * If we try to run the above code to see how the compiler informs us that
-   * we don’t handle all the cases in `nonExhaustiveDuration`.
+   * If we try to run the above code the compiler informs us that we don't handle
+   * all the cases in `nonExhaustiveDuration`.
    *
    * = Equals =
    *
