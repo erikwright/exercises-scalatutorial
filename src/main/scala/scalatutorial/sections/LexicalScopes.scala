@@ -209,7 +209,7 @@ object LexicalScopes extends ScalaTutorialSection {
    * }}}
    *
    * On the other hand, definitions located in other packages are not directly
-   * visible: you must use ''fully qualified names'' to refer to them:
+   * visible: you must use ''fully-qualified names'' to refer to them:
    *
    * {{{
    *   // file quux/Quux.scala
@@ -219,7 +219,7 @@ object LexicalScopes extends ScalaTutorialSection {
    *   }
    * }}}
    *
-   * Finally, you can import names to avoid repeating their fully qualified form:
+   * Finally, you can import names to avoid repeating their fully-qualified form:
    *
    * {{{
    *   // file quux/Quux.scala
@@ -241,7 +241,7 @@ object LexicalScopes extends ScalaTutorialSection {
    *  - All members of package `java.lang`
    *  - All members of the singleton object `scala.Predef`.
    *
-   * Here are the fully qualified names of some types and functions
+   * Here are the fully-qualified names of some types and functions
    * which you have seen so far:
    *
    * {{{
